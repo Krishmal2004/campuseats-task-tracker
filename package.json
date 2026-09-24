@@ -1,0 +1,20 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "A lightweight team repository for CampusEats developers to manage and track project tasks, practice Git workflows, code reviews, and automated CI/CD pipelines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishmal2004/campuseats-task-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishmal2004/campuseats-task-tracker/issues"
+  },
+  "homepage": "https://github.com/Krishmal2004/campuseats-task-tracker#readme"
+}
