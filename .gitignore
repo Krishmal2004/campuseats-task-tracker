@@ -23,3 +23,7 @@ obj/
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+*.docx
+*.zip
+*.py
